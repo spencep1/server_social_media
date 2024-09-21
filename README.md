@@ -18,3 +18,4 @@ Making a GET request with the extension /post needs a "where_clause" paramater a
 
 
 <img width="709" alt="social media server" src="https://github.com/user-attachments/assets/a37c249a-51f3-487e-94b6-4ff45a8bd074">
+![server_social_media drawio](https://github.com/user-attachments/assets/0b426e9c-7aac-4076-bd1b-991b2d035f67)
