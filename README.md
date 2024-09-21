@@ -18,5 +18,3 @@ Making a PUT request with the extension /post with the username, post_id, title,
 </br>
 Making a GET request with the extension /post needs a "where_clause" paramater and a "number_of_posts" paramaters. The "where_clause" is the WHERE section in a SQL get request where you specify what type of rows you want and the "number_of_posts" is the number of posts that you want back that match that "where_clause". It will then send back a JSON that shows the result of the request along with any data that was grabbed from the sql database.</br>
 
-
-<img width="709" alt="social media server" src="https://github.com/user-attachments/assets/a37c249a-51f3-487e-94b6-4ff45a8bd074">
