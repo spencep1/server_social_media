@@ -1,3 +1,5 @@
+![server_social_media drawio (1)](https://github.com/user-attachments/assets/a23f953e-4743-4433-bf36-e7e7b461f708)
+
 Hello this is an API for the react website that allows for the storage of social media like posts.</br>
 </br>
 Making a GET request with the extension /message sends a test message</br>
